@@ -85,9 +85,7 @@ Returns a response containing the list of all IPL teams
 
 **teamMatchesApiUrl**
 
-#### API: `https://apis.ccbp.in/ipl/:id`
-
-#### Example: `https://apis.ccbp.in/ipl/KKR`
+#### API: `https://apis.ccbp.in/ipl/:id`#### Example: `https://apis.ccbp.in/ipl/KKR`
 
 #### Method: `GET`
 
